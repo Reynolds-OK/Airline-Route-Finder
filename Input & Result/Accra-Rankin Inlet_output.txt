@@ -1,0 +1,10 @@
+
+Routes to use to get to your destination
+-------------------------------------------
+1. AA from ACC to LHR 0 stops.
+2. AA from LHR to DEN 0 stops.
+3. AC from DEN to YWG 0 stops.
+4. 5T from YWG to YRT 0 stops.
+
+Total flights: 4
+Total additional stops: 0
